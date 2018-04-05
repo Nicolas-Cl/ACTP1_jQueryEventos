@@ -1,0 +1,12 @@
+
+body{
+	background-image: url("imagenes/dark-triangles.png");
+	font-family: tahoma,verdana}
+	p{color: #555555}
+	#logo{height: 100px}
+	.extra-grande{ font-size: 15px }
+	h1{font-family: roboto}
+
+ul.navbar{list-style-type:none; background-color: white; height: 160px}
+ul.navbar li {float: left; padding:70px}
+
